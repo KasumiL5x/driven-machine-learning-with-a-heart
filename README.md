@@ -3,7 +3,7 @@
 This is my submission for the DrivenData competition [Machine Learning with a Heart](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/page/107/).
 
 # Status
-I have not yet finished this challenge.
+I have tried two simple solutions (one using Random Forest and another using Logistic Regression) obtaining a score of `~0.36258` (Log Loss).  I want to move on to something a little more exciting!
 
 ---
 
